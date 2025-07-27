@@ -227,6 +227,9 @@ address {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people-office.jpg);
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .hero-container {
